@@ -58,7 +58,7 @@ by-path  card0  card1  renderD128
 ---
 
 Built from unmodified upstream source:
-- Upstream: https://github.com/intel-gpu/i915-sriov-dkms  
+- Upstream: https://github.com/strongtz/i915-sriov-dkms
 - Version: 2025.10.10  
 - License: GPL-2.0-only  
 - Kernel: 6.12.33-production+truenas  
